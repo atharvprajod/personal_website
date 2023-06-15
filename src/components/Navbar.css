@@ -1,0 +1,14 @@
+.navbar {
+    background: transparent;
+    height: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.navbar-header {
+    font-size: 20px;
+}; 
+
+.nav-item {
+    height: 80px;
+  }
